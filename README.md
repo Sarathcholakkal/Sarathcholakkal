@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sarathcholakkal
-- 👀 I’m interested in ...flutter
-- 🌱 I’m currently learning ...flutter
-- 💞️ I’m looking to collaborate on ...
+
+- 
+- 💞️ ask me about Flutter UI
 - 📫 How to reach me ...@ssarathcholakkall@gmail.com
 - 
 
