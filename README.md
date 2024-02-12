@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*6G7Za_9TIZ_lXJlISNtIiQ.gif)
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZneXJjcXJtb3V4M3VqeTlsZm9mZHNsMTk4ZmdianpuM2h2bTRzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E89xxATM4iZoPdr6Tb/giphy.gif)
 <h1 align="center">Hi 👋, I'm sarathcholakkal</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif">
