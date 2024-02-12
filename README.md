@@ -1,7 +1,7 @@
-![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZneXJjcXJtb3V4M3VqeTlsZm9mZHNsMTk4ZmdianpuM2h2bTRzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E89xxATM4iZoPdr6Tb/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm sarathcholakkal</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZneXJjcXJtb3V4M3VqeTlsZm9mZHNsMTk4ZmdianpuM2h2bTRzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E89xxATM4iZoPdr6Tb/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathcholakkal&label=Profile%20views&color=0e75b6&style=flat" alt="sarathcholakkal" /> </p>
 
