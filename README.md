@@ -17,7 +17,7 @@
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarathcholakkal&show_icons=true&locale=en" alt="sarathcholakkal" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarathcholakkal&" alt="sarathcholakkal" /></p>
  
-  <h3 align="left">Connect with me:</h3>  
+  <h3 align="right">Connect with me:</h3>  
   <p align="right">
 <a href="https://twitter.com/sarathcholakkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarathcholakkal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarathcholakkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarathcholakkal" height="30" width="40" /></a>
