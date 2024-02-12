@@ -17,6 +17,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarathcholakkal&show_icons=true&locale=en" alt="sarathcholakkal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarathcholakkal&show_icons=true&locale=en" alt="sarathcholakkal" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarathcholakkal&" alt="sarathcholakkal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarathcholakkal&" alt="sarathcholakkal" /></p>
+
