@@ -1,4 +1,5 @@
-![MasterHead](https://i.giphy.com/xT8qBsOjMOcdeGJIU8.webp)
+
+<div class="header" style="width: 100%; background: url('https://i.giphy.com/xT8qBsOjMOcdeGJIU8.webp'); background-size: cover; background-position: center; color: white; padding: 50px 0; text-align: center;"></div>
 <h1 align="center">Hi 👋, I'm sarathcholakkal</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
