@@ -1,7 +1,11 @@
 
-<div class="header" style="width: 100%; background: url('https://i.giphy.com/xT8qBsOjMOcdeGJIU8.webp'); background-size: cover; background-position: center; color: white; padding: 50px 0; text-align: center;"></div>
-<h1 align="center">Hi 👋, I'm sarathcholakkal</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+
+
+<div class="header" style="width: 80%; background: url('https://i.giphy.com/xT8qBsOjMOcdeGJIU8.webp'); background-size: cover; background-position: center; color: white; padding: 50px 0; text-align: center;">
+    <h1>Hi 👋, I'm sarathcholakkal</h1>
+    <h3>A passionate Flutter developer from India</h3>
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathcholakkal&label=Profile%20views&color=0e75b6&style=flat" alt="sarathcholakkal" /> </p>
